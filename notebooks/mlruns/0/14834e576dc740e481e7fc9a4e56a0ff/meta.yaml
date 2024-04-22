@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/reginaflores/Documents/ProyectoCDRepos/PROYECTO-CD-Premiere-league/notebooks/mlruns/0/14834e576dc740e481e7fc9a4e56a0ff/artifacts
+end_time: 1713826209301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14834e576dc740e481e7fc9a4e56a0ff
+run_name: LogisticRegression
+run_uuid: 14834e576dc740e481e7fc9a4e56a0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713826206641
+status: 3
+tags: []
+user_id: reginaflores
