@@ -44,6 +44,25 @@ def load_model():
     # Load model as a PyFuncModel.
     logged_model = mlflow.pyfunc.load_model(logged_model)
 
+@app.get("/api/v1/classify")
+def classify(features_model: FeaturesModel, api_key : APIKey=Depends(get_api_key)):
+
+    features= [val for val in features_model.__dict__.values()]
+    prediction = logged_model.predict([features])
+
+
+    label_dict= {
+        0: "Not churn",
+        1: "Churn"
+    }
+
+    return {'prediction': label_dict[int(prediction[0])]}
+
+
+if __name__ == "__main__":
+    uvicorn.run('api:app', host='0.0.0.0', port=5050, log_level='info', reload=True)
+
+
 
 
 
