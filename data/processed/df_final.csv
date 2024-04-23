@@ -1,513 +1,513 @@
-Venue,Result,GF,GA,Opponent,xG,xGA,Team
-Away,D,1.0,1.0,Chelsea,1.3,1.4,Liverpool
-Home,W,3.0,1.0,Bournemouth,3.0,1.3,Liverpool
-Away,W,2.0,1.0,Newcastle Utd,0.9,2.0,Liverpool
-Home,W,3.0,0.0,Aston Villa,2.5,0.7,Liverpool
-Away,W,3.0,1.0,Wolves,2.5,0.6,Liverpool
-Home,W,3.0,1.0,West Ham,3.0,1.1,Liverpool
-Away,L,1.0,2.0,Tottenham,1.3,2.2,Liverpool
-Away,D,2.0,2.0,Brighton,2.3,2.3,Liverpool
-Home,W,2.0,0.0,Everton,2.2,0.1,Liverpool
-Home,W,3.0,0.0,Nott'ham Forest,3.2,0.4,Liverpool
-Away,D,1.0,1.0,Luton Town,2.6,0.8,Liverpool
-Home,W,3.0,0.0,Brentford,1.7,1.6,Liverpool
-Away,D,1.0,1.0,Manchester City,0.6,1.3,Liverpool
-Home,W,4.0,3.0,Fulham,2.1,1.2,Liverpool
-Away,W,2.0,0.0,Sheffield Utd,1.7,1.0,Liverpool
-Away,W,2.0,1.0,Crystal Palace,1.2,1.7,Liverpool
-Home,D,0.0,0.0,Manchester Utd,2.3,0.8,Liverpool
-Home,D,1.0,1.0,Arsenal,1.0,0.7,Liverpool
-Away,W,2.0,0.0,Burnley,1.8,0.8,Liverpool
-Home,W,4.0,2.0,Newcastle Utd,7.0,0.6,Liverpool
-Away,W,4.0,0.0,Bournemouth,1.5,1.4,Liverpool
-Home,W,4.0,1.0,Chelsea,2.9,0.6,Liverpool
-Away,L,1.0,3.0,Arsenal,0.4,3.5,Liverpool
-Home,W,3.0,1.0,Burnley,2.8,1.3,Liverpool
-Away,W,4.0,1.0,Brentford,2.8,1.6,Liverpool
-Home,W,4.0,1.0,Luton Town,3.3,0.9,Liverpool
-Away,W,3.0,0.0,Burnley,1.9,0.3,ManchesterCity
-Home,W,1.0,0.0,Newcastle Utd,1.0,0.3,ManchesterCity
-Away,W,2.0,1.0,Sheffield Utd,3.5,0.7,ManchesterCity
-Home,W,5.0,1.0,Fulham,2.2,1.4,ManchesterCity
-Away,W,3.0,1.0,West Ham,3.6,0.9,ManchesterCity
-Home,W,2.0,0.0,Nott'ham Forest,1.3,1.0,ManchesterCity
-Away,L,1.0,2.0,Wolves,0.9,0.4,ManchesterCity
-Away,L,0.0,1.0,Arsenal,0.5,0.4,ManchesterCity
-Home,W,2.0,1.0,Brighton,0.8,0.8,ManchesterCity
-Away,W,3.0,0.0,Manchester Utd,4.0,0.9,ManchesterCity
-Home,W,6.0,1.0,Bournemouth,1.9,0.9,ManchesterCity
-Away,D,4.0,4.0,Chelsea,2.9,2.9,ManchesterCity
-Home,D,1.0,1.0,Liverpool,1.3,0.6,ManchesterCity
-Home,D,3.0,3.0,Tottenham,2.6,0.5,ManchesterCity
-Away,L,0.0,1.0,Aston Villa,0.6,2.3,ManchesterCity
-Away,W,2.0,1.0,Luton Town,1.6,0.3,ManchesterCity
-Home,D,2.0,2.0,Crystal Palace,1.6,1.8,ManchesterCity
-Away,W,3.0,1.0,Everton,2.4,1.0,ManchesterCity
-Home,W,2.0,0.0,Sheffield Utd,2.2,0.3,ManchesterCity
-Away,W,3.0,2.0,Newcastle Utd,3.0,1.3,ManchesterCity
-Home,W,3.0,1.0,Burnley,1.7,1.4,ManchesterCity
-Away,W,3.0,1.0,Brentford,2.1,1.0,ManchesterCity
-Home,W,2.0,0.0,Everton,1.6,0.3,ManchesterCity
-Home,D,1.0,1.0,Chelsea,2.6,1.4,ManchesterCity
-Home,W,1.0,0.0,Brentford,2.3,0.4,ManchesterCity
-Away,W,1.0,0.0,Bournemouth,1.6,0.9,ManchesterCity
-Home,W,2.0,1.0,Nott'ham Forest,0.8,1.2,Arsenal
-Away,W,1.0,0.0,Crystal Palace,2.0,1.0,Arsenal
-Home,D,2.0,2.0,Fulham,3.2,0.6,Arsenal
-Home,W,3.0,1.0,Manchester Utd,2.3,0.9,Arsenal
-Away,W,1.0,0.0,Everton,1.0,0.3,Arsenal
-Home,D,2.0,2.0,Tottenham,1.8,1.4,Arsenal
-Away,W,4.0,0.0,Bournemouth,3.4,0.6,Arsenal
-Home,W,1.0,0.0,Manchester City,0.4,0.5,Arsenal
-Away,D,2.0,2.0,Chelsea,1.0,1.3,Arsenal
-Home,W,5.0,0.0,Sheffield Utd,2.8,0.0,Arsenal
-Away,L,0.0,1.0,Newcastle Utd,0.6,1.0,Arsenal
-Home,W,3.0,1.0,Burnley,1.8,0.3,Arsenal
-Away,W,1.0,0.0,Brentford,1.6,1.1,Arsenal
-Home,W,2.0,1.0,Wolves,2.8,0.7,Arsenal
-Away,W,4.0,3.0,Luton Town,2.2,0.5,Arsenal
-Away,L,0.0,1.0,Aston Villa,1.4,0.6,Arsenal
-Home,W,2.0,0.0,Brighton,2.3,0.7,Arsenal
-Away,D,1.0,1.0,Liverpool,0.7,1.0,Arsenal
-Home,L,0.0,2.0,West Ham,2.7,1.4,Arsenal
-Away,L,1.0,2.0,Fulham,1.6,1.2,Arsenal
-Home,W,5.0,0.0,Crystal Palace,3.3,0.3,Arsenal
-Away,W,2.0,1.0,Nott'ham Forest,1.2,0.5,Arsenal
-Home,W,3.0,1.0,Liverpool,3.5,0.4,Arsenal
-Away,W,6.0,0.0,West Ham,3.6,0.2,Arsenal
-Away,W,5.0,0.0,Burnley,2.3,0.3,Arsenal
-Home,W,4.0,1.0,Newcastle Utd,2.4,0.2,Arsenal
-Away,L,1.0,5.0,Newcastle Utd,1.8,3.3,AstonVilla
-Home,W,4.0,0.0,Everton,2.9,0.6,AstonVilla
-Away,W,3.0,1.0,Burnley,2.5,0.7,AstonVilla
-Away,L,0.0,3.0,Liverpool,0.7,2.5,AstonVilla
-Home,W,3.0,1.0,Crystal Palace,3.0,1.2,AstonVilla
-Away,W,1.0,0.0,Chelsea,1.0,1.3,AstonVilla
-Home,W,6.0,1.0,Brighton,1.6,1.7,AstonVilla
-Away,D,1.0,1.0,Wolves,1.6,1.7,AstonVilla
-Home,W,4.0,1.0,West Ham,1.9,1.1,AstonVilla
-Home,W,3.0,1.0,Luton Town,2.3,0.5,AstonVilla
-Away,L,0.0,2.0,Nott'ham Forest,1.2,0.4,AstonVilla
-Home,W,3.0,1.0,Fulham,3.0,0.9,AstonVilla
-Away,W,2.0,1.0,Tottenham,1.7,2.3,AstonVilla
-Away,D,2.0,2.0,Bournemouth,0.7,2.0,AstonVilla
-Home,W,1.0,0.0,Manchester City,2.3,0.6,AstonVilla
-Home,W,1.0,0.0,Arsenal,0.6,1.4,AstonVilla
-Away,W,2.0,1.0,Brentford,1.4,0.5,AstonVilla
-Home,D,1.0,1.0,Sheffield Utd,0.9,0.6,AstonVilla
-Away,L,2.0,3.0,Manchester Utd,1.7,1.1,AstonVilla
-Home,W,3.0,2.0,Burnley,3.2,1.2,AstonVilla
-Away,D,0.0,0.0,Everton,1.2,1.1,AstonVilla
-Home,L,1.0,3.0,Newcastle Utd,1.4,2.6,AstonVilla
-Away,W,5.0,0.0,Sheffield Utd,2.2,1.4,AstonVilla
-Home,L,1.0,2.0,Manchester Utd,2.4,1.8,AstonVilla
-Away,W,2.0,1.0,Fulham,1.5,1.5,AstonVilla
-Away,D,2.0,2.0,Brentford,1.3,2.2,TottenhamHotspur
-Home,W,2.0,0.0,Manchester Utd,1.7,2.1,TottenhamHotspur
-Away,W,2.0,0.0,Bournemouth,2.1,0.7,TottenhamHotspur
-Away,W,5.0,2.0,Burnley,2.2,1.3,TottenhamHotspur
-Home,W,2.0,1.0,Sheffield Utd,2.1,0.7,TottenhamHotspur
-Away,D,2.0,2.0,Arsenal,1.4,1.8,TottenhamHotspur
-Home,W,2.0,1.0,Liverpool,2.2,1.3,TottenhamHotspur
-Away,W,1.0,0.0,Luton Town,1.9,0.8,TottenhamHotspur
-Home,W,2.0,0.0,Fulham,1.5,1.0,TottenhamHotspur
-Away,W,2.0,1.0,Crystal Palace,1.1,0.6,TottenhamHotspur
-Home,L,1.0,4.0,Chelsea,0.9,4.1,TottenhamHotspur
-Away,L,1.0,2.0,Wolves,0.7,2.1,TottenhamHotspur
-Home,L,1.0,2.0,Aston Villa,2.3,1.7,TottenhamHotspur
-Away,D,3.0,3.0,Manchester City,0.5,2.6,TottenhamHotspur
-Home,L,1.0,2.0,West Ham,1.8,2.2,TottenhamHotspur
-Home,W,4.0,1.0,Newcastle Utd,3.8,1.7,TottenhamHotspur
-Away,W,2.0,0.0,Nott'ham Forest,1.5,1.3,TottenhamHotspur
-Home,W,2.0,1.0,Everton,1.5,1.8,TottenhamHotspur
-Away,L,2.0,4.0,Brighton,2.3,3.2,TottenhamHotspur
-Home,W,3.0,1.0,Bournemouth,2.3,1.7,TottenhamHotspur
-Away,D,2.0,2.0,Manchester Utd,1.2,0.8,TottenhamHotspur
-Home,W,3.0,2.0,Brentford,2.9,1.6,TottenhamHotspur
-Away,D,2.0,2.0,Everton,1.0,2.6,TottenhamHotspur
-Home,W,2.0,1.0,Brighton,1.6,1.2,TottenhamHotspur
-Home,L,1.0,2.0,Wolves,1.6,1.8,TottenhamHotspur
-Home,W,1.0,0.0,Wolves,2.2,2.2,ManchesterUnited
-Away,L,0.0,2.0,Tottenham,2.1,1.7,ManchesterUnited
-Home,W,3.0,2.0,Nott'ham Forest,2.8,1.2,ManchesterUnited
-Away,L,1.0,3.0,Arsenal,0.9,2.3,ManchesterUnited
-Home,L,1.0,3.0,Brighton,1.0,1.7,ManchesterUnited
-Away,W,1.0,0.0,Burnley,1.0,1.1,ManchesterUnited
-Home,L,0.0,1.0,Crystal Palace,1.3,0.9,ManchesterUnited
-Home,W,2.0,1.0,Brentford,1.4,0.9,ManchesterUnited
-Away,W,2.0,1.0,Sheffield Utd,1.1,1.4,ManchesterUnited
-Home,L,0.0,3.0,Manchester City,0.9,4.0,ManchesterUnited
-Away,W,1.0,0.0,Fulham,0.7,1.0,ManchesterUnited
-Home,W,1.0,0.0,Luton Town,2.2,0.4,ManchesterUnited
-Away,W,3.0,0.0,Everton,2.2,2.4,ManchesterUnited
-Away,L,0.0,1.0,Newcastle Utd,0.5,2.4,ManchesterUnited
-Home,W,2.0,1.0,Chelsea,4.1,1.5,ManchesterUnited
-Home,L,0.0,3.0,Bournemouth,1.1,1.5,ManchesterUnited
-Away,D,0.0,0.0,Liverpool,0.8,2.3,ManchesterUnited
-Away,L,0.0,2.0,West Ham,1.0,1.2,ManchesterUnited
-Home,W,3.0,2.0,Aston Villa,1.1,1.7,ManchesterUnited
-Away,L,1.0,2.0,Nott'ham Forest,0.8,0.7,ManchesterUnited
-Home,D,2.0,2.0,Tottenham,0.8,1.2,ManchesterUnited
-Away,W,4.0,3.0,Wolves,3.3,2.1,ManchesterUnited
-Home,W,3.0,0.0,West Ham,0.7,1.4,ManchesterUnited
-Away,W,2.0,1.0,Aston Villa,1.8,2.4,ManchesterUnited
-Away,W,2.0,1.0,Luton Town,2.9,1.8,ManchesterUnited
-Home,L,1.0,2.0,Fulham,1.7,1.1,ManchesterUnited
-Home,W,4.0,1.0,Luton Town,4.0,1.5,BrightonandHoveAlbion
-Away,W,4.0,1.0,Wolves,2.2,2.1,BrightonandHoveAlbion
-Home,L,1.0,3.0,West Ham,1.5,3.0,BrightonandHoveAlbion
-Home,W,3.0,1.0,Newcastle Utd,1.3,1.2,BrightonandHoveAlbion
-Away,W,3.0,1.0,Manchester Utd,1.7,1.0,BrightonandHoveAlbion
-Home,W,3.0,1.0,Bournemouth,1.9,1.1,BrightonandHoveAlbion
-Away,L,1.0,6.0,Aston Villa,1.7,1.6,BrightonandHoveAlbion
-Home,D,2.0,2.0,Liverpool,2.3,2.3,BrightonandHoveAlbion
-Away,L,1.0,2.0,Manchester City,0.8,0.8,BrightonandHoveAlbion
-Home,D,1.0,1.0,Fulham,1.4,0.7,BrightonandHoveAlbion
-Away,D,1.0,1.0,Everton,0.5,0.7,BrightonandHoveAlbion
-Home,D,1.0,1.0,Sheffield Utd,1.5,1.1,BrightonandHoveAlbion
-Away,W,3.0,2.0,Nott'ham Forest,1.3,1.9,BrightonandHoveAlbion
-Away,L,2.0,3.0,Chelsea,1.1,2.1,BrightonandHoveAlbion
-Home,W,2.0,1.0,Brentford,1.5,1.5,BrightonandHoveAlbion
-Home,D,1.0,1.0,Burnley,2.6,0.6,BrightonandHoveAlbion
-Away,L,0.0,2.0,Arsenal,0.7,2.3,BrightonandHoveAlbion
-Away,D,1.0,1.0,Crystal Palace,1.2,1.3,BrightonandHoveAlbion
-Home,W,4.0,2.0,Tottenham,3.2,2.3,BrightonandHoveAlbion
-Away,D,0.0,0.0,West Ham,2.3,0.7,BrightonandHoveAlbion
-Home,D,0.0,0.0,Wolves,1.0,1.1,BrightonandHoveAlbion
-Away,L,0.0,4.0,Luton Town,0.9,3.1,BrightonandHoveAlbion
-Home,W,4.0,1.0,Crystal Palace,1.4,0.3,BrightonandHoveAlbion
-Away,L,1.0,2.0,Tottenham,1.2,1.6,BrightonandHoveAlbion
-Away,W,5.0,0.0,Sheffield Utd,2.9,0.6,BrightonandHoveAlbion
-Home,D,1.0,1.0,Everton,1.3,0.3,BrightonandHoveAlbion
-Away,L,0.0,1.0,Manchester Utd,2.2,2.2,WolverhamptonWanderers
-Home,L,1.0,4.0,Brighton,2.1,2.2,WolverhamptonWanderers
-Away,W,1.0,0.0,Everton,1.1,1.3,WolverhamptonWanderers
-Away,L,2.0,3.0,Crystal Palace,1.2,2.1,WolverhamptonWanderers
-Home,L,1.0,3.0,Liverpool,0.6,2.5,WolverhamptonWanderers
-Away,D,1.0,1.0,Luton Town,0.6,2.1,WolverhamptonWanderers
-Home,W,2.0,1.0,Manchester City,0.4,0.9,WolverhamptonWanderers
-Home,D,1.0,1.0,Aston Villa,1.7,1.6,WolverhamptonWanderers
-Away,W,2.0,1.0,Bournemouth,2.4,0.6,WolverhamptonWanderers
-Home,D,2.0,2.0,Newcastle Utd,0.9,2.2,WolverhamptonWanderers
-Away,L,1.0,2.0,Sheffield Utd,1.2,1.0,WolverhamptonWanderers
-Home,W,2.0,1.0,Tottenham,2.1,0.7,WolverhamptonWanderers
-Away,L,2.0,3.0,Fulham,1.4,2.9,WolverhamptonWanderers
-Away,L,1.0,2.0,Arsenal,0.7,2.8,WolverhamptonWanderers
-Home,W,1.0,0.0,Burnley,0.8,0.9,WolverhamptonWanderers
-Home,D,1.0,1.0,Nott'ham Forest,1.2,1.3,WolverhamptonWanderers
-Away,L,0.0,3.0,West Ham,0.7,1.1,WolverhamptonWanderers
-Home,W,2.0,1.0,Chelsea,1.3,2.0,WolverhamptonWanderers
-Away,W,4.0,1.0,Brentford,2.4,2.2,WolverhamptonWanderers
-Home,W,3.0,0.0,Everton,1.9,0.4,WolverhamptonWanderers
-Away,D,0.0,0.0,Brighton,1.1,1.0,WolverhamptonWanderers
-Home,L,3.0,4.0,Manchester Utd,2.1,3.3,WolverhamptonWanderers
-Away,W,4.0,2.0,Chelsea,2.0,1.7,WolverhamptonWanderers
-Home,L,0.0,2.0,Brentford,1.0,1.9,WolverhamptonWanderers
-Away,W,2.0,1.0,Tottenham,1.8,1.6,WolverhamptonWanderers
-Home,W,1.0,0.0,Sheffield Utd,1.2,0.6,WolverhamptonWanderers
-Home,W,5.0,1.0,Aston Villa,3.3,1.8,NewcastleUnited
-Away,L,0.0,1.0,Manchester City,0.3,1.0,NewcastleUnited
-Home,L,1.0,2.0,Liverpool,2.0,0.9,NewcastleUnited
-Away,L,1.0,3.0,Brighton,1.2,1.3,NewcastleUnited
-Home,W,1.0,0.0,Brentford,1.4,0.5,NewcastleUnited
-Away,W,8.0,0.0,Sheffield Utd,3.9,0.9,NewcastleUnited
-Home,W,2.0,0.0,Burnley,3.1,0.6,NewcastleUnited
-Away,D,2.0,2.0,West Ham,2.0,1.2,NewcastleUnited
-Home,W,4.0,0.0,Crystal Palace,2.4,1.2,NewcastleUnited
-Away,D,2.0,2.0,Wolves,2.2,0.9,NewcastleUnited
-Home,W,1.0,0.0,Arsenal,1.0,0.6,NewcastleUnited
-Away,L,0.0,2.0,Bournemouth,0.5,2.4,NewcastleUnited
-Home,W,4.0,1.0,Chelsea,2.4,0.5,NewcastleUnited
-Home,W,1.0,0.0,Manchester Utd,2.4,0.5,NewcastleUnited
-Away,L,0.0,3.0,Everton,1.5,3.3,NewcastleUnited
-Away,L,1.0,4.0,Tottenham,1.7,3.8,NewcastleUnited
-Home,W,3.0,0.0,Fulham,3.5,0.3,NewcastleUnited
-Away,L,0.0,1.0,Luton Town,1.4,1.4,NewcastleUnited
-Home,L,1.0,3.0,Nott'ham Forest,2.4,3.5,NewcastleUnited
-Away,L,2.0,4.0,Liverpool,0.6,7.0,NewcastleUnited
-Home,L,2.0,3.0,Manchester City,1.3,3.0,NewcastleUnited
-Away,W,3.0,1.0,Aston Villa,2.6,1.4,NewcastleUnited
-Home,D,4.0,4.0,Luton Town,2.3,2.4,NewcastleUnited
-Away,W,3.0,2.0,Nott'ham Forest,0.5,1.5,NewcastleUnited
-Home,D,2.0,2.0,Bournemouth,2.2,2.2,NewcastleUnited
-Away,L,1.0,4.0,Arsenal,0.2,2.4,NewcastleUnited
-Away,D,1.0,1.0,Bournemouth,1.1,1.3,WestHamUnited
-Home,W,3.0,1.0,Chelsea,1.8,2.5,WestHamUnited
-Away,W,3.0,1.0,Brighton,3.0,1.5,WestHamUnited
-Away,W,2.0,1.0,Luton Town,1.0,1.4,WestHamUnited
-Home,L,1.0,3.0,Manchester City,0.9,3.6,WestHamUnited
-Away,L,1.0,3.0,Liverpool,1.1,3.0,WestHamUnited
-Home,W,2.0,0.0,Sheffield Utd,2.1,1.1,WestHamUnited
-Home,D,2.0,2.0,Newcastle Utd,1.2,2.0,WestHamUnited
-Away,L,1.0,4.0,Aston Villa,1.1,1.9,WestHamUnited
-Home,L,0.0,1.0,Everton,0.7,0.8,WestHamUnited
-Away,L,2.0,3.0,Brentford,1.8,1.5,WestHamUnited
-Home,W,3.0,2.0,Nott'ham Forest,1.8,1.7,WestHamUnited
-Away,W,2.0,1.0,Burnley,0.9,1.3,WestHamUnited
-Home,D,1.0,1.0,Crystal Palace,1.1,0.9,WestHamUnited
-Away,W,2.0,1.0,Tottenham,2.2,1.8,WestHamUnited
-Away,L,0.0,5.0,Fulham,1.3,2.3,WestHamUnited
-Home,W,3.0,0.0,Wolves,1.1,0.7,WestHamUnited
-Home,W,2.0,0.0,Manchester Utd,1.2,1.0,WestHamUnited
-Away,W,2.0,0.0,Arsenal,1.4,2.7,WestHamUnited
-Home,D,0.0,0.0,Brighton,0.7,2.3,WestHamUnited
-Away,D,2.0,2.0,Sheffield Utd,2.3,2.5,WestHamUnited
-Home,D,1.0,1.0,Bournemouth,1.4,1.2,WestHamUnited
-Away,L,0.0,3.0,Manchester Utd,1.4,0.7,WestHamUnited
-Home,L,0.0,6.0,Arsenal,0.2,3.6,WestHamUnited
-Away,L,0.0,2.0,Nott'ham Forest,0.5,2.8,WestHamUnited
-Home,D,1.0,1.0,Liverpool,1.4,1.3,Chelsea
-Away,L,1.0,3.0,West Ham,2.5,1.8,Chelsea
-Home,W,3.0,0.0,Luton Town,2.2,0.4,Chelsea
-Home,L,0.0,1.0,Nott'ham Forest,2.3,0.8,Chelsea
-Away,D,0.0,0.0,Bournemouth,1.8,1.0,Chelsea
-Home,L,0.0,1.0,Aston Villa,1.3,1.0,Chelsea
-Away,W,2.0,0.0,Fulham,1.7,1.1,Chelsea
-Away,W,4.0,1.0,Burnley,1.9,0.7,Chelsea
-Home,D,2.0,2.0,Arsenal,1.3,1.0,Chelsea
-Home,L,0.0,2.0,Brentford,1.9,2.2,Chelsea
-Away,W,4.0,1.0,Tottenham,4.1,0.9,Chelsea
-Home,D,4.0,4.0,Manchester City,2.9,2.9,Chelsea
-Away,L,1.0,4.0,Newcastle Utd,0.5,2.4,Chelsea
-Home,W,3.0,2.0,Brighton,2.1,1.1,Chelsea
-Away,L,1.0,2.0,Manchester Utd,1.5,4.1,Chelsea
-Away,L,0.0,2.0,Everton,0.9,1.2,Chelsea
-Home,W,2.0,0.0,Sheffield Utd,3.1,0.4,Chelsea
-Away,L,1.0,2.0,Wolves,2.0,1.3,Chelsea
-Home,W,2.0,1.0,Crystal Palace,2.6,1.1,Chelsea
-Away,W,3.0,2.0,Luton Town,1.5,2.3,Chelsea
-Home,W,1.0,0.0,Fulham,2.2,0.8,Chelsea
-Away,L,1.0,4.0,Liverpool,0.6,2.9,Chelsea
-Home,L,2.0,4.0,Wolves,1.7,2.0,Chelsea
-Away,W,3.0,1.0,Crystal Palace,1.4,0.6,Chelsea
-Away,D,1.0,1.0,Manchester City,1.4,2.6,Chelsea
-Away,W,1.0,0.0,Everton,1.5,2.7,Fulham
-Home,L,0.0,3.0,Brentford,0.5,3.7,Fulham
-Away,D,2.0,2.0,Arsenal,0.6,3.2,Fulham
-Away,L,1.0,5.0,Manchester City,1.4,2.2,Fulham
-Home,W,1.0,0.0,Luton Town,1.0,1.1,Fulham
-Away,D,0.0,0.0,Crystal Palace,0.6,0.3,Fulham
-Home,L,0.0,2.0,Chelsea,1.1,1.7,Fulham
-Home,W,3.0,1.0,Sheffield Utd,2.2,0.6,Fulham
-Away,L,0.0,2.0,Tottenham,1.0,1.5,Fulham
-Away,D,1.0,1.0,Brighton,0.7,1.4,Fulham
-Home,L,0.0,1.0,Manchester Utd,1.0,0.7,Fulham
-Away,L,1.0,3.0,Aston Villa,0.9,3.0,Fulham
-Home,W,3.0,2.0,Wolves,2.9,1.4,Fulham
-Away,L,3.0,4.0,Liverpool,1.2,2.1,Fulham
-Home,W,5.0,0.0,Nott'ham Forest,2.5,0.3,Fulham
-Home,W,5.0,0.0,West Ham,2.3,1.3,Fulham
-Away,L,0.0,3.0,Newcastle Utd,0.3,3.5,Fulham
-Home,L,0.0,2.0,Burnley,1.3,0.4,Fulham
-Away,L,0.0,3.0,Bournemouth,0.3,1.8,Fulham
-Home,W,2.0,1.0,Arsenal,1.2,1.6,Fulham
-Away,L,0.0,1.0,Chelsea,0.8,2.2,Fulham
-Home,D,0.0,0.0,Everton,1.6,1.9,Fulham
-Away,D,2.0,2.0,Burnley,1.5,1.8,Fulham
-Home,W,3.0,1.0,Bournemouth,1.6,1.8,Fulham
-Home,L,1.0,2.0,Aston Villa,1.5,1.5,Fulham
-Away,W,2.0,1.0,Manchester Utd,1.1,1.7,Fulham
-Away,W,1.0,0.0,Sheffield Utd,1.9,0.5,CrystalPalace
-Home,L,0.0,1.0,Arsenal,1.0,2.0,CrystalPalace
-Away,D,1.0,1.0,Brentford,0.8,1.0,CrystalPalace
-Home,W,3.0,2.0,Wolves,2.1,1.2,CrystalPalace
-Away,L,1.0,3.0,Aston Villa,1.2,3.0,CrystalPalace
-Home,D,0.0,0.0,Fulham,0.3,0.6,CrystalPalace
-Away,W,1.0,0.0,Manchester Utd,0.9,1.3,CrystalPalace
-Home,D,0.0,0.0,Nott'ham Forest,0.8,1.0,CrystalPalace
-Away,L,0.0,4.0,Newcastle Utd,1.2,2.4,CrystalPalace
-Home,L,1.0,2.0,Tottenham,0.6,1.1,CrystalPalace
-Away,W,2.0,0.0,Burnley,1.3,1.1,CrystalPalace
-Home,L,2.0,3.0,Everton,2.2,1.5,CrystalPalace
-Away,L,1.0,2.0,Luton Town,1.6,0.9,CrystalPalace
-Away,D,1.0,1.0,West Ham,0.9,1.1,CrystalPalace
-Home,L,0.0,2.0,Bournemouth,1.0,1.8,CrystalPalace
-Home,L,1.0,2.0,Liverpool,1.7,1.2,CrystalPalace
-Away,D,2.0,2.0,Manchester City,1.8,1.6,CrystalPalace
-Home,D,1.0,1.0,Brighton,1.3,1.2,CrystalPalace
-Away,L,1.0,2.0,Chelsea,1.1,2.6,CrystalPalace
-Home,W,3.0,1.0,Brentford,1.0,1.4,CrystalPalace
-Away,L,0.0,5.0,Arsenal,0.3,3.3,CrystalPalace
-Home,W,3.0,2.0,Sheffield Utd,1.1,0.8,CrystalPalace
-Away,L,1.0,4.0,Brighton,0.3,1.4,CrystalPalace
-Home,L,1.0,3.0,Chelsea,0.6,1.4,CrystalPalace
-Away,D,1.0,1.0,Everton,0.7,1.7,CrystalPalace
-Home,W,3.0,0.0,Burnley,2.4,0.1,CrystalPalace
-Home,D,1.0,1.0,West Ham,1.3,1.1,Bournemouth
-Away,L,1.0,3.0,Liverpool,1.3,3.0,Bournemouth
-Home,L,0.0,2.0,Tottenham,0.7,2.1,Bournemouth
-Away,D,2.0,2.0,Brentford,2.1,2.9,Bournemouth
-Home,D,0.0,0.0,Chelsea,1.0,1.8,Bournemouth
-Away,L,1.0,3.0,Brighton,1.1,1.9,Bournemouth
-Home,L,0.0,4.0,Arsenal,0.6,3.4,Bournemouth
-Away,L,0.0,3.0,Everton,0.7,2.4,Bournemouth
-Home,L,1.0,2.0,Wolves,0.6,2.4,Bournemouth
-Home,W,2.0,1.0,Burnley,1.1,0.8,Bournemouth
-Away,L,1.0,6.0,Manchester City,0.9,1.9,Bournemouth
-Home,W,2.0,0.0,Newcastle Utd,2.4,0.5,Bournemouth
-Away,W,3.0,1.0,Sheffield Utd,2.9,0.8,Bournemouth
-Home,D,2.0,2.0,Aston Villa,2.0,0.7,Bournemouth
-Away,W,2.0,0.0,Crystal Palace,1.8,1.0,Bournemouth
-Away,W,3.0,0.0,Manchester Utd,1.5,1.1,Bournemouth
-Away,W,3.0,2.0,Nott'ham Forest,1.6,1.0,Bournemouth
-Home,W,3.0,0.0,Fulham,1.8,0.3,Bournemouth
-Away,L,1.0,3.0,Tottenham,1.7,2.3,Bournemouth
-Home,L,0.0,4.0,Liverpool,1.4,1.5,Bournemouth
-Away,D,1.0,1.0,West Ham,1.2,1.4,Bournemouth
-Home,D,1.0,1.0,Nott'ham Forest,1.3,0.5,Bournemouth
-Away,L,1.0,3.0,Fulham,1.8,1.6,Bournemouth
-Away,D,2.0,2.0,Newcastle Utd,2.2,2.2,Bournemouth
-Home,L,0.0,1.0,Manchester City,0.9,1.6,Bournemouth
-Home,D,2.0,2.0,Tottenham,2.2,1.3,Brentford
-Away,W,3.0,0.0,Fulham,3.7,0.5,Brentford
-Home,D,1.0,1.0,Crystal Palace,1.0,0.8,Brentford
-Home,D,2.0,2.0,Bournemouth,2.9,2.1,Brentford
-Away,L,0.0,1.0,Newcastle Utd,0.5,1.4,Brentford
-Home,L,1.0,3.0,Everton,1.0,1.9,Brentford
-Away,D,1.0,1.0,Nott'ham Forest,1.6,0.5,Brentford
-Away,L,1.0,2.0,Manchester Utd,0.9,1.4,Brentford
-Home,W,3.0,0.0,Burnley,3.1,1.1,Brentford
-Away,W,2.0,0.0,Chelsea,2.2,1.9,Brentford
-Home,W,3.0,2.0,West Ham,1.5,1.8,Brentford
-Away,L,0.0,3.0,Liverpool,1.6,1.7,Brentford
-Home,L,0.0,1.0,Arsenal,1.1,1.6,Brentford
-Home,W,3.0,1.0,Luton Town,3.1,0.2,Brentford
-Away,L,1.0,2.0,Brighton,1.5,1.5,Brentford
-Away,L,0.0,1.0,Sheffield Utd,0.6,0.8,Brentford
-Home,L,1.0,2.0,Aston Villa,0.5,1.4,Brentford
-Home,L,1.0,4.0,Wolves,2.2,2.4,Brentford
-Away,L,1.0,3.0,Crystal Palace,1.4,1.0,Brentford
-Home,W,3.0,2.0,Nott'ham Forest,1.2,1.2,Brentford
-Away,L,2.0,3.0,Tottenham,1.6,2.9,Brentford
-Home,L,1.0,3.0,Manchester City,1.0,2.1,Brentford
-Away,W,2.0,0.0,Wolves,1.9,1.0,Brentford
-Home,L,1.0,4.0,Liverpool,1.6,2.8,Brentford
-Away,L,0.0,1.0,Manchester City,0.4,2.3,Brentford
-Away,L,1.0,2.0,Arsenal,1.2,0.8,NottinghamForest
-Home,W,2.0,1.0,Sheffield Utd,1.4,0.5,NottinghamForest
-Away,L,2.0,3.0,Manchester Utd,1.2,2.8,NottinghamForest
-Away,W,1.0,0.0,Chelsea,0.8,2.3,NottinghamForest
-Home,D,1.0,1.0,Burnley,0.7,0.5,NottinghamForest
-Away,L,0.0,2.0,Manchester City,1.0,1.3,NottinghamForest
-Home,D,1.0,1.0,Brentford,0.5,1.6,NottinghamForest
-Away,D,0.0,0.0,Crystal Palace,1.0,0.8,NottinghamForest
-Home,D,2.0,2.0,Luton Town,2.9,1.7,NottinghamForest
-Away,L,0.0,3.0,Liverpool,0.4,3.2,NottinghamForest
-Home,W,2.0,0.0,Aston Villa,0.4,1.2,NottinghamForest
-Away,L,2.0,3.0,West Ham,1.7,1.8,NottinghamForest
-Home,L,2.0,3.0,Brighton,1.9,1.3,NottinghamForest
-Home,L,0.0,1.0,Everton,0.7,0.7,NottinghamForest
-Away,L,0.0,5.0,Fulham,0.3,2.5,NottinghamForest
-Away,D,1.0,1.0,Wolves,1.3,1.2,NottinghamForest
-Home,L,0.0,2.0,Tottenham,1.3,1.5,NottinghamForest
-Home,L,2.0,3.0,Bournemouth,1.0,1.6,NottinghamForest
-Away,W,3.0,1.0,Newcastle Utd,3.5,2.4,NottinghamForest
-Home,W,2.0,1.0,Manchester Utd,0.7,0.8,NottinghamForest
-Away,L,2.0,3.0,Brentford,1.2,1.2,NottinghamForest
-Home,L,1.0,2.0,Arsenal,0.5,1.2,NottinghamForest
-Away,D,1.0,1.0,Bournemouth,0.5,1.3,NottinghamForest
-Home,L,2.0,3.0,Newcastle Utd,1.5,0.5,NottinghamForest
-Home,W,2.0,0.0,West Ham,2.8,0.5,NottinghamForest
-Home,L,0.0,1.0,Fulham,2.7,1.5,Everton
-Away,L,0.0,4.0,Aston Villa,0.6,2.9,Everton
-Home,L,0.0,1.0,Wolves,1.3,1.1,Everton
-Away,D,2.0,2.0,Sheffield Utd,2.5,1.2,Everton
-Home,L,0.0,1.0,Arsenal,0.3,1.0,Everton
-Away,W,3.0,1.0,Brentford,1.9,1.0,Everton
-Home,L,1.0,2.0,Luton Town,2.9,0.9,Everton
-Home,W,3.0,0.0,Bournemouth,2.4,0.7,Everton
-Away,L,0.0,2.0,Liverpool,0.1,2.2,Everton
-Away,W,1.0,0.0,West Ham,0.8,0.7,Everton
-Home,D,1.0,1.0,Brighton,0.7,0.5,Everton
-Away,W,3.0,2.0,Crystal Palace,1.5,2.2,Everton
-Home,L,0.0,3.0,Manchester Utd,2.4,2.2,Everton
-Away,W,1.0,0.0,Nott'ham Forest,0.7,0.7,Everton
-Home,W,3.0,0.0,Newcastle Utd,3.3,1.5,Everton
-Home,W,2.0,0.0,Chelsea,1.2,0.9,Everton
-Away,W,2.0,0.0,Burnley,1.4,0.7,Everton
-Away,L,1.0,2.0,Tottenham,1.8,1.5,Everton
-Home,L,1.0,3.0,Manchester City,1.0,2.4,Everton
-Away,L,0.0,3.0,Wolves,0.4,1.9,Everton
-Home,D,0.0,0.0,Aston Villa,1.1,1.2,Everton
-Away,D,0.0,0.0,Fulham,1.9,1.6,Everton
-Home,D,2.0,2.0,Tottenham,2.6,1.0,Everton
-Away,L,0.0,2.0,Manchester City,0.3,1.6,Everton
-Home,D,1.0,1.0,Crystal Palace,1.7,0.7,Everton
-Away,D,1.0,1.0,Brighton,0.3,1.3,Everton
-Away,L,1.0,4.0,Brighton,1.5,4.0,LutonTown
-Away,L,0.0,3.0,Chelsea,0.4,2.2,LutonTown
-Home,L,1.0,2.0,West Ham,1.4,1.0,LutonTown
-Away,L,0.0,1.0,Fulham,1.1,1.0,LutonTown
-Home,D,1.0,1.0,Wolves,2.1,0.6,LutonTown
-Away,W,2.0,1.0,Everton,0.9,2.9,LutonTown
-Home,L,1.0,2.0,Burnley,1.3,1.1,LutonTown
-Home,L,0.0,1.0,Tottenham,0.8,1.9,LutonTown
-Away,D,2.0,2.0,Nott'ham Forest,1.7,2.9,LutonTown
-Away,L,1.0,3.0,Aston Villa,0.5,2.3,LutonTown
-Home,D,1.0,1.0,Liverpool,0.8,2.6,LutonTown
-Away,L,0.0,1.0,Manchester Utd,0.4,2.2,LutonTown
-Home,W,2.0,1.0,Crystal Palace,0.9,1.6,LutonTown
-Away,L,1.0,3.0,Brentford,0.2,3.1,LutonTown
-Home,L,3.0,4.0,Arsenal,0.5,2.2,LutonTown
-Home,L,1.0,2.0,Manchester City,0.3,1.6,LutonTown
-Home,W,1.0,0.0,Newcastle Utd,1.4,1.4,LutonTown
-Away,W,3.0,2.0,Sheffield Utd,0.6,2.4,LutonTown
-Home,L,2.0,3.0,Chelsea,2.3,1.5,LutonTown
-Away,D,1.0,1.0,Burnley,0.9,1.1,LutonTown
-Home,W,4.0,0.0,Brighton,3.1,0.9,LutonTown
-Away,D,4.0,4.0,Newcastle Utd,2.4,2.3,LutonTown
-Home,L,1.0,3.0,Sheffield Utd,1.8,1.7,LutonTown
-Home,L,1.0,2.0,Manchester Utd,1.8,2.9,LutonTown
-Away,L,1.0,4.0,Liverpool,0.9,3.3,LutonTown
-Home,L,0.0,3.0,Manchester City,0.3,1.9,Burnley
-Home,L,1.0,3.0,Aston Villa,0.7,2.5,Burnley
-Home,L,2.0,5.0,Tottenham,1.3,2.2,Burnley
-Away,D,1.0,1.0,Nott'ham Forest,0.5,0.7,Burnley
-Home,L,0.0,1.0,Manchester Utd,1.1,1.0,Burnley
-Away,L,0.0,2.0,Newcastle Utd,0.6,3.1,Burnley
-Away,W,2.0,1.0,Luton Town,1.1,1.3,Burnley
-Home,L,1.0,4.0,Chelsea,0.7,1.9,Burnley
-Away,L,0.0,3.0,Brentford,1.1,3.1,Burnley
-Away,L,1.0,2.0,Bournemouth,0.8,1.1,Burnley
-Home,L,0.0,2.0,Crystal Palace,1.1,1.3,Burnley
-Away,L,1.0,3.0,Arsenal,0.3,1.8,Burnley
-Home,L,1.0,2.0,West Ham,1.3,0.9,Burnley
-Home,W,5.0,0.0,Sheffield Utd,1.8,0.4,Burnley
-Away,L,0.0,1.0,Wolves,0.9,0.8,Burnley
-Away,D,1.0,1.0,Brighton,0.6,2.6,Burnley
-Home,L,0.0,2.0,Everton,0.7,1.4,Burnley
-Away,W,2.0,0.0,Fulham,0.4,1.3,Burnley
-Home,L,0.0,2.0,Liverpool,0.8,1.8,Burnley
-Away,L,2.0,3.0,Aston Villa,1.2,3.2,Burnley
-Home,D,1.0,1.0,Luton Town,1.1,0.9,Burnley
-Away,L,1.0,3.0,Manchester City,1.4,1.7,Burnley
-Home,D,2.0,2.0,Fulham,1.8,1.5,Burnley
-Away,L,1.0,3.0,Liverpool,1.3,2.8,Burnley
-Home,L,0.0,5.0,Arsenal,0.3,2.3,Burnley
-Away,L,0.0,3.0,Crystal Palace,0.1,2.4,Burnley
-Home,L,0.0,1.0,Crystal Palace,0.5,1.9,SheffieldUnited
-Away,L,1.0,2.0,Nott'ham Forest,0.5,1.4,SheffieldUnited
-Home,L,1.0,2.0,Manchester City,0.7,3.5,SheffieldUnited
-Home,D,2.0,2.0,Everton,1.2,2.5,SheffieldUnited
-Away,L,1.0,2.0,Tottenham,0.7,2.1,SheffieldUnited
-Home,L,0.0,8.0,Newcastle Utd,0.9,3.9,SheffieldUnited
-Away,L,0.0,2.0,West Ham,1.1,2.1,SheffieldUnited
-Away,L,1.0,3.0,Fulham,0.6,2.2,SheffieldUnited
-Home,L,1.0,2.0,Manchester Utd,1.4,1.1,SheffieldUnited
-Away,L,0.0,5.0,Arsenal,0.0,2.8,SheffieldUnited
-Home,W,2.0,1.0,Wolves,1.0,1.2,SheffieldUnited
-Away,D,1.0,1.0,Brighton,1.1,1.5,SheffieldUnited
-Home,L,1.0,3.0,Bournemouth,0.8,2.9,SheffieldUnited
-Away,L,0.0,5.0,Burnley,0.4,1.8,SheffieldUnited
-Home,L,0.0,2.0,Liverpool,1.0,1.7,SheffieldUnited
-Home,W,1.0,0.0,Brentford,0.8,0.6,SheffieldUnited
-Away,L,0.0,2.0,Chelsea,0.4,3.1,SheffieldUnited
-Away,D,1.0,1.0,Aston Villa,0.6,0.9,SheffieldUnited
-Home,L,2.0,3.0,Luton Town,2.4,0.6,SheffieldUnited
-Away,L,0.0,2.0,Manchester City,0.3,2.2,SheffieldUnited
-Home,D,2.0,2.0,West Ham,2.5,2.3,SheffieldUnited
-Away,L,2.0,3.0,Crystal Palace,0.8,1.1,SheffieldUnited
-Home,L,0.0,5.0,Aston Villa,1.4,2.2,SheffieldUnited
-Away,W,3.0,1.0,Luton Town,1.7,1.8,SheffieldUnited
-Home,L,0.0,5.0,Brighton,0.6,2.9,SheffieldUnited
-Away,L,0.0,1.0,Wolves,0.6,1.2,SheffieldUnited
+Venue,Result,Opponent,xG,xGA,Referee,Team
+0,0,6,1.3,1.4,1,10
+1,1,2,3.0,1.3,23,10
+0,1,14,0.9,2.0,9,10
+1,1,1,2.5,0.7,21,10
+0,1,19,2.5,0.6,12,10
+1,1,18,3.0,1.1,2,10
+0,2,17,1.3,2.2,21,10
+0,0,4,2.3,2.3,1,10
+1,1,8,2.2,0.1,3,10
+1,1,15,3.2,0.4,2,10
+0,0,11,2.6,0.8,0,10
+1,1,3,1.7,1.6,14,10
+0,0,12,0.6,1.3,2,10
+1,1,9,2.1,1.2,22,10
+0,1,16,1.7,1.0,21,10
+0,1,7,1.2,1.7,0,10
+1,0,13,2.3,0.8,12,10
+1,0,0,1.0,0.7,2,10
+0,1,5,1.8,0.8,14,10
+1,1,14,7.0,0.6,1,10
+0,1,2,1.5,1.4,0,10
+1,1,6,2.9,0.6,14,10
+0,2,0,0.4,3.5,1,10
+1,1,5,2.8,1.3,24,10
+0,1,3,2.8,1.6,12,10
+1,1,11,3.3,0.9,0,10
+0,1,5,1.9,0.3,3,12
+1,1,14,1.0,0.3,17,12
+0,1,16,3.5,0.7,8,12
+1,1,9,2.2,1.4,12,12
+0,1,18,3.6,0.9,0,12
+1,1,15,1.3,1.0,1,12
+0,2,19,0.9,0.4,3,12
+0,2,0,0.5,0.4,12,12
+1,1,4,0.8,0.8,17,12
+0,1,13,4.0,0.9,14,12
+1,1,2,1.9,0.9,3,12
+0,0,6,2.9,2.9,1,12
+1,0,10,1.3,0.6,2,12
+1,0,17,2.6,0.5,21,12
+0,2,1,0.6,2.3,9,12
+0,1,11,1.6,0.3,24,12
+1,0,7,1.6,1.8,14,12
+0,1,8,2.4,1.0,9,12
+1,1,16,2.2,0.3,6,12
+0,1,14,3.0,1.3,2,12
+1,1,5,1.7,1.4,20,12
+0,1,3,2.1,1.0,8,12
+1,1,8,1.6,0.3,9,12
+1,0,6,2.6,1.4,0,12
+1,1,3,2.3,0.4,5,12
+0,1,2,1.6,0.9,8,12
+1,1,15,0.8,1.2,12,0
+0,1,7,2.0,1.0,6,0
+1,0,9,3.2,0.6,14,0
+1,1,13,2.3,0.9,1,0
+0,1,8,1.0,0.3,21,0
+1,0,17,1.8,1.4,17,0
+0,1,2,3.4,0.6,13,0
+1,1,12,0.4,0.5,12,0
+0,0,6,1.0,1.3,2,0
+1,1,16,2.8,0.0,24,0
+0,2,14,0.6,1.0,22,0
+1,1,5,1.8,0.3,12,0
+0,1,3,1.6,1.1,24,0
+1,1,19,2.8,0.7,15,0
+0,1,11,2.2,0.5,20,0
+0,2,1,1.4,0.6,8,0
+1,1,4,2.3,0.7,24,0
+0,0,10,0.7,1.0,2,0
+1,2,18,2.7,1.4,12,0
+0,2,9,1.6,1.2,10,0
+1,1,7,3.3,0.3,14,0
+0,1,15,1.2,0.5,21,0
+1,1,10,3.5,0.4,1,0
+0,1,18,3.6,0.2,3,0
+0,1,5,2.3,0.3,8,0
+1,1,14,2.4,0.2,14,0
+0,2,14,1.8,3.3,0,1
+1,1,8,2.9,0.6,1,1
+0,1,5,2.5,0.7,13,1
+0,2,10,0.7,2.5,21,1
+1,1,7,3.0,1.2,5,1
+0,1,6,1.0,1.3,8,1
+1,1,4,1.6,1.7,0,1
+0,0,19,1.6,1.7,17,1
+1,1,18,1.9,1.1,6,1
+1,1,11,2.3,0.5,9,1
+0,2,15,1.2,0.4,8,1
+1,1,9,3.0,0.9,21,1
+0,1,17,1.7,2.3,17,1
+0,0,2,0.7,2.0,23,1
+1,1,12,2.3,0.6,9,1
+1,1,0,0.6,1.4,8,1
+0,1,3,1.4,0.5,6,1
+1,0,16,0.9,0.6,1,1
+0,2,13,1.7,1.1,3,1
+1,1,5,3.2,1.2,22,1
+0,0,8,1.2,1.1,6,1
+1,2,14,1.4,2.6,9,1
+0,1,16,2.2,1.4,14,1
+1,2,13,2.4,1.8,17,1
+0,1,9,1.5,1.5,11,1
+0,0,3,1.3,2.2,17,17
+1,1,13,1.7,2.1,12,17
+0,1,2,2.1,0.7,24,17
+0,1,5,2.2,1.3,5,17
+1,1,16,2.1,0.7,15,17
+0,0,0,1.4,1.8,17,17
+1,1,10,2.2,1.3,21,17
+0,1,11,1.9,0.8,9,17
+1,1,9,1.5,1.0,1,17
+0,1,7,1.1,0.6,0,17
+1,2,6,0.9,4.1,12,17
+0,2,19,0.7,2.1,24,17
+1,2,1,2.3,1.7,17,17
+0,0,12,0.5,2.6,21,17
+1,2,18,1.8,2.2,13,17
+1,1,14,3.8,1.7,2,17
+0,1,15,1.5,1.3,8,17
+1,1,8,1.5,1.8,22,17
+0,2,4,2.3,3.2,8,17
+1,1,2,2.3,1.7,21,17
+0,0,13,1.2,0.8,9,17
+1,1,3,2.9,1.6,6,17
+0,0,8,1.0,2.6,12,17
+1,1,4,1.6,1.2,20,17
+1,2,19,1.6,1.8,1,17
+1,1,19,2.2,2.2,21,13
+0,2,17,2.1,1.7,12,13
+1,1,15,2.8,1.2,22,13
+0,2,0,0.9,2.3,1,13
+1,2,4,1.0,1.7,8,13
+0,1,5,1.0,1.1,25,13
+1,2,7,1.3,0.9,2,13
+1,1,3,1.4,0.9,0,13
+0,1,16,1.1,1.4,12,13
+1,2,12,0.9,4.0,14,13
+0,1,9,0.7,1.0,9,13
+1,1,11,2.2,0.4,7,13
+0,1,8,2.2,2.4,9,13
+0,2,14,0.5,2.4,17,13
+1,1,6,4.1,1.5,2,13
+1,2,2,1.1,1.5,15,13
+0,0,10,0.8,2.3,12,13
+0,2,18,1.0,1.2,21,13
+1,1,1,1.1,1.7,3,13
+0,2,15,0.8,0.7,24,13
+1,0,17,0.8,1.2,9,13
+0,1,19,3.3,2.1,8,13
+1,1,18,0.7,1.4,0,13
+0,1,1,1.8,2.4,17,13
+0,1,11,2.9,1.8,6,13
+1,2,9,1.7,1.1,12,13
+1,1,11,4.0,1.5,6,4
+0,1,19,2.2,2.1,0,4
+1,2,18,1.5,3.0,1,4
+1,1,14,1.3,1.2,22,4
+0,1,13,1.7,1.0,8,4
+1,1,2,1.9,1.1,9,4
+0,2,1,1.7,1.6,0,4
+1,0,10,2.3,2.3,1,4
+0,2,12,0.8,0.8,17,4
+1,0,9,1.4,0.7,13,4
+0,0,8,0.5,0.7,24,4
+1,0,16,1.5,1.1,9,4
+0,1,15,1.3,1.9,1,4
+0,2,6,1.1,2.1,3,4
+1,1,3,1.5,1.5,15,4
+1,0,5,2.6,0.6,21,4
+0,2,0,0.7,2.3,24,4
+0,0,7,1.2,1.3,9,4
+1,1,17,3.2,2.3,8,4
+0,0,18,2.3,0.7,20,4
+1,0,19,1.0,1.1,3,4
+0,2,11,0.9,3.1,17,4
+1,1,7,1.4,0.3,21,4
+0,2,17,1.2,1.6,20,4
+0,1,16,2.9,0.6,22,4
+1,0,8,1.3,0.3,25,4
+0,2,13,2.2,2.2,21,19
+1,2,4,2.1,2.2,0,19
+0,1,8,1.1,1.3,3,19
+0,2,7,1.2,2.1,17,19
+1,2,10,0.6,2.5,12,19
+0,0,11,0.6,2.1,10,19
+1,1,12,0.4,0.9,3,19
+1,0,1,1.7,1.6,17,19
+0,1,2,2.4,0.6,14,19
+1,0,14,0.9,2.2,1,19
+0,2,16,1.2,1.0,17,19
+1,1,17,2.1,0.7,24,19
+0,2,9,1.4,2.9,13,19
+0,2,0,0.7,2.8,15,19
+1,1,5,0.8,0.9,8,19
+1,0,15,1.2,1.3,20,19
+0,2,18,0.7,1.1,2,19
+1,1,6,1.3,2.0,6,19
+0,1,3,2.4,2.2,0,19
+1,1,8,1.9,0.4,23,19
+0,0,4,1.1,1.0,3,19
+1,2,13,2.1,3.3,8,19
+0,1,6,2.0,1.7,24,19
+1,2,3,1.0,1.9,21,19
+0,1,17,1.8,1.6,1,19
+1,1,16,1.2,0.6,4,19
+1,1,1,3.3,1.8,0,14
+0,2,12,0.3,1.0,17,14
+1,2,10,2.0,0.9,9,14
+0,2,4,1.2,1.3,22,14
+1,1,3,1.4,0.5,3,14
+0,1,16,3.9,0.9,22,14
+1,1,5,3.1,0.6,23,14
+0,0,18,2.0,1.2,15,14
+1,1,7,2.4,1.2,24,14
+0,0,19,2.2,0.9,1,14
+1,1,0,1.0,0.6,22,14
+0,2,2,0.5,2.4,2,14
+1,1,6,2.4,0.5,21,14
+1,1,13,2.4,0.5,17,14
+0,2,8,1.5,3.3,24,14
+0,2,17,1.7,3.8,2,14
+1,1,9,3.5,0.3,20,14
+0,2,11,1.4,1.4,5,14
+1,2,15,2.4,3.5,2,14
+0,2,10,0.6,7.0,1,14
+1,2,12,1.3,3.0,2,14
+0,1,1,2.6,1.4,9,14
+1,0,11,2.3,2.4,23,14
+0,1,15,0.5,1.5,1,14
+1,0,2,2.2,2.2,13,14
+0,2,0,0.2,2.4,14,14
+0,0,2,1.1,1.3,15,18
+1,1,6,1.8,2.5,9,18
+0,1,4,3.0,1.5,1,18
+0,1,11,1.0,1.4,14,18
+1,2,12,0.9,3.6,0,18
+0,2,10,1.1,3.0,2,18
+1,1,16,2.1,1.1,7,18
+1,0,14,1.2,2.0,15,18
+0,2,1,1.1,1.9,6,18
+1,2,8,0.7,0.8,22,18
+0,2,3,1.8,1.5,23,18
+1,1,15,1.8,1.7,13,18
+0,1,5,0.9,1.3,20,18
+1,0,7,1.1,0.9,12,18
+0,1,17,2.2,1.8,13,18
+0,2,9,1.3,2.3,14,18
+1,1,19,1.1,0.7,2,18
+1,1,13,1.2,1.0,21,18
+0,1,0,1.4,2.7,12,18
+1,0,4,0.7,2.3,20,18
+0,0,16,2.3,2.5,13,18
+1,0,2,1.4,1.2,24,18
+0,2,13,1.4,0.7,0,18
+1,2,0,0.2,3.6,3,18
+0,2,15,0.5,2.8,23,18
+1,0,10,1.4,1.3,1,6
+0,2,18,2.5,1.8,9,6
+1,1,11,2.2,0.4,17,6
+1,2,15,2.3,0.8,24,6
+0,0,2,1.8,1.0,6,6
+1,2,1,1.3,1.0,8,6
+0,1,9,1.7,1.1,24,6
+0,1,5,1.9,0.7,22,6
+1,0,0,1.3,1.0,2,6
+1,2,3,1.9,2.2,21,6
+0,1,17,4.1,0.9,12,6
+1,0,12,2.9,2.9,1,6
+0,2,14,0.5,2.4,21,6
+1,1,4,2.1,1.1,3,6
+0,2,13,1.5,4.1,2,6
+0,2,8,0.9,1.2,12,6
+1,1,16,3.1,0.4,0,6
+0,2,19,2.0,1.3,6,6
+1,1,7,2.6,1.1,13,6
+0,1,11,1.5,2.3,14,6
+1,1,9,2.2,0.8,1,6
+0,2,10,0.6,2.9,14,6
+1,2,19,1.7,2.0,24,6
+0,1,7,1.4,0.6,12,6
+0,0,12,1.4,2.6,0,6
+0,1,8,1.5,2.7,22,9
+1,2,3,0.5,3.7,4,9
+0,0,0,0.6,3.2,14,9
+0,2,12,1.4,2.2,12,9
+1,1,11,1.0,1.1,13,9
+0,0,7,0.6,0.3,14,9
+1,2,6,1.1,1.7,24,9
+1,1,16,2.2,0.6,20,9
+0,2,17,1.0,1.5,1,9
+0,0,4,0.7,1.4,13,9
+1,2,13,1.0,0.7,9,9
+0,2,1,0.9,3.0,21,9
+1,1,19,2.9,1.4,13,9
+0,2,10,1.2,2.1,22,9
+1,1,15,2.5,0.3,10,9
+1,1,18,2.3,1.3,14,9
+0,2,14,0.3,3.5,20,9
+1,2,5,1.3,0.4,16,9
+0,2,2,0.3,1.8,24,9
+1,1,0,1.2,1.6,10,9
+0,2,6,0.8,2.2,1,9
+1,0,8,1.6,1.9,23,9
+0,0,5,1.5,1.8,4,9
+1,1,2,1.6,1.8,5,9
+1,2,1,1.5,1.5,11,9
+0,1,13,1.1,1.7,12,9
+0,1,16,1.9,0.5,9,7
+1,2,0,1.0,2.0,6,7
+0,0,3,0.8,1.0,15,7
+1,1,19,2.1,1.2,17,7
+0,2,1,1.2,3.0,5,7
+1,0,9,0.3,0.6,14,7
+0,1,13,0.9,1.3,2,7
+1,0,15,0.8,1.0,3,7
+0,2,14,1.2,2.4,24,7
+1,2,17,0.6,1.1,0,7
+0,1,5,1.3,1.1,15,7
+1,2,8,2.2,1.5,20,7
+0,2,11,1.6,0.9,8,7
+0,0,18,0.9,1.1,12,7
+1,2,2,1.0,1.8,3,7
+1,2,10,1.7,1.2,0,7
+0,0,12,1.8,1.6,14,7
+1,0,4,1.3,1.2,9,7
+0,2,6,1.1,2.6,13,7
+1,1,3,1.0,1.4,17,7
+0,2,0,0.3,3.3,14,7
+1,1,16,1.1,0.8,25,7
+0,2,4,0.3,1.4,21,7
+1,2,6,0.6,1.4,12,7
+0,0,8,0.7,1.7,14,7
+1,1,5,2.4,0.1,11,7
+1,0,18,1.3,1.1,15,2
+0,2,10,1.3,3.0,23,2
+1,2,17,0.7,2.1,24,2
+0,0,3,2.1,2.9,18,2
+1,0,6,1.0,1.8,6,2
+0,2,4,1.1,1.9,9,2
+1,2,0,0.6,3.4,13,2
+0,2,8,0.7,2.4,6,2
+1,2,19,0.6,2.4,14,2
+1,1,5,1.1,0.8,20,2
+0,2,12,0.9,1.9,3,2
+1,1,14,2.4,0.5,2,2
+0,1,16,2.9,0.8,0,2
+1,0,1,2.0,0.7,23,2
+0,1,7,1.8,1.0,3,2
+0,1,13,1.5,1.1,15,2
+0,1,15,1.6,1.0,17,2
+1,1,9,1.8,0.3,24,2
+0,2,17,1.7,2.3,21,2
+1,2,10,1.4,1.5,0,2
+0,0,18,1.2,1.4,24,2
+1,0,15,1.3,0.5,16,2
+0,2,9,1.8,1.6,5,2
+0,0,14,2.2,2.2,13,2
+1,2,12,0.9,1.6,8,2
+1,0,17,2.2,1.3,17,3
+0,1,9,3.7,0.5,4,3
+1,0,7,1.0,0.8,15,3
+1,0,2,2.9,2.1,18,3
+0,2,14,0.5,1.4,3,3
+1,2,8,1.0,1.9,12,3
+0,0,15,1.6,0.5,14,3
+0,2,13,0.9,1.4,0,3
+1,1,5,3.1,1.1,10,3
+0,1,6,2.2,1.9,21,3
+1,1,18,1.5,1.8,23,3
+0,2,10,1.6,1.7,14,3
+1,2,0,1.1,1.6,24,3
+1,1,11,3.1,0.2,1,3
+0,2,4,1.5,1.5,15,3
+0,2,16,0.6,0.8,22,3
+1,2,1,0.5,1.4,6,3
+1,2,19,2.2,2.4,0,3
+0,2,7,1.4,1.0,17,3
+1,1,15,1.2,1.2,5,3
+0,2,17,1.6,2.9,6,3
+1,2,12,1.0,2.1,8,3
+0,1,19,1.9,1.0,21,3
+1,2,10,1.6,2.8,12,3
+0,2,12,0.4,2.3,5,3
+0,2,0,1.2,0.8,12,15
+1,1,16,1.4,0.5,15,15
+0,2,13,1.2,2.8,22,15
+0,1,6,0.8,2.3,24,15
+1,0,5,0.7,0.5,17,15
+0,2,12,1.0,1.3,1,15
+1,0,3,0.5,1.6,14,15
+0,0,7,1.0,0.8,3,15
+1,0,11,2.9,1.7,20,15
+0,2,10,0.4,3.2,2,15
+1,1,1,0.4,1.2,8,15
+0,2,18,1.7,1.8,13,15
+1,2,4,1.9,1.3,1,15
+1,2,8,0.7,0.7,14,15
+0,2,9,0.3,2.5,10,15
+0,0,19,1.3,1.2,20,15
+1,2,17,1.3,1.5,8,15
+1,2,2,1.0,1.6,17,15
+0,1,14,3.5,2.4,2,15
+1,1,13,0.7,0.8,24,15
+0,2,3,1.2,1.2,5,15
+1,2,0,0.5,1.2,21,15
+0,0,2,0.5,1.3,16,15
+1,2,14,1.5,0.5,1,15
+1,1,18,2.8,0.5,23,15
+1,2,9,2.7,1.5,22,8
+0,2,1,0.6,2.9,1,8
+1,2,19,1.3,1.1,3,8
+0,0,16,2.5,1.2,0,8
+1,2,0,0.3,1.0,21,8
+0,1,3,1.9,1.0,12,8
+1,2,11,2.9,0.9,1,8
+1,1,2,2.4,0.7,6,8
+0,2,10,0.1,2.2,3,8
+0,1,18,0.8,0.7,22,8
+1,0,4,0.7,0.5,24,8
+0,1,7,1.5,2.2,20,8
+1,2,13,2.4,2.2,9,8
+0,1,15,0.7,0.7,14,8
+1,1,14,3.3,1.5,24,8
+1,1,6,1.2,0.9,12,8
+0,1,5,1.4,0.7,1,8
+0,2,17,1.8,1.5,22,8
+1,2,12,1.0,2.4,9,8
+0,2,19,0.4,1.9,23,8
+1,0,1,1.1,1.2,6,8
+0,0,9,1.9,1.6,23,8
+1,0,17,2.6,1.0,12,8
+0,2,12,0.3,1.6,9,8
+1,0,7,1.7,0.7,14,8
+0,0,4,0.3,1.3,25,8
+0,2,4,1.5,4.0,6,11
+0,2,6,0.4,2.2,17,11
+1,2,18,1.4,1.0,14,11
+0,2,9,1.1,1.0,13,11
+1,0,19,2.1,0.6,10,11
+0,1,8,0.9,2.9,1,11
+1,2,5,1.3,1.1,15,11
+1,2,17,0.8,1.9,9,11
+0,0,15,1.7,2.9,20,11
+0,2,1,0.5,2.3,9,11
+1,0,10,0.8,2.6,0,11
+0,2,13,0.4,2.2,7,11
+1,1,7,0.9,1.6,8,11
+0,2,3,0.2,3.1,1,11
+1,2,0,0.5,2.2,20,11
+1,2,12,0.3,1.6,24,11
+1,1,14,1.4,1.4,5,11
+0,1,16,0.6,2.4,19,11
+1,2,6,2.3,1.5,14,11
+0,0,5,0.9,1.1,25,11
+1,1,4,3.1,0.9,17,11
+0,0,14,2.4,2.3,23,11
+1,2,16,1.8,1.7,2,11
+1,2,13,1.8,2.9,6,11
+0,2,10,0.9,3.3,0,11
+1,2,12,0.3,1.9,3,5
+1,2,1,0.7,2.5,13,5
+1,2,17,1.3,2.2,5,5
+0,0,15,0.5,0.7,17,5
+1,2,13,1.1,1.0,25,5
+0,2,14,0.6,3.1,23,5
+0,1,11,1.1,1.3,15,5
+1,2,6,0.7,1.9,22,5
+0,2,3,1.1,3.1,10,5
+0,2,2,0.8,1.1,20,5
+1,2,7,1.1,1.3,15,5
+0,2,0,0.3,1.8,12,5
+1,2,18,1.3,0.9,20,5
+1,1,16,1.8,0.4,2,5
+0,2,19,0.9,0.8,8,5
+0,0,4,0.6,2.6,21,5
+1,2,8,0.7,1.4,1,5
+0,1,9,0.4,1.3,16,5
+1,2,10,0.8,1.8,14,5
+0,2,1,1.2,3.2,22,5
+1,0,11,1.1,0.9,25,5
+0,2,12,1.4,1.7,20,5
+1,0,9,1.8,1.5,4,5
+0,2,10,1.3,2.8,24,5
+1,2,0,0.3,2.3,8,5
+0,2,7,0.1,2.4,11,5
+1,2,7,0.5,1.9,9,16
+0,2,15,0.5,1.4,15,16
+1,2,12,0.7,3.5,8,16
+1,0,8,1.2,2.5,0,16
+0,2,17,0.7,2.1,15,16
+1,2,14,0.9,3.9,22,16
+0,2,18,1.1,2.1,7,16
+0,2,9,0.6,2.2,20,16
+1,2,13,1.4,1.1,12,16
+0,2,0,0.0,2.8,24,16
+1,1,19,1.0,1.2,17,16
+0,0,4,1.1,1.5,9,16
+1,2,2,0.8,2.9,0,16
+0,2,5,0.4,1.8,2,16
+1,2,10,1.0,1.7,21,16
+1,1,3,0.8,0.6,22,16
+0,2,6,0.4,3.1,0,16
+0,0,1,0.6,0.9,1,16
+1,2,11,2.4,0.6,19,16
+0,2,12,0.3,2.2,6,16
+1,0,18,2.5,2.3,13,16
+0,2,7,0.8,1.1,25,16
+1,2,1,1.4,2.2,14,16
+0,1,11,1.7,1.8,2,16
+1,2,4,0.6,2.9,22,16
+0,2,19,0.6,1.2,4,16
