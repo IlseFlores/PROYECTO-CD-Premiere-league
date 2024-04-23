@@ -7,13 +7,12 @@ from pydantic import BaseModel
 
 
 class FeaturesModel(BaseModel):
-    Venue: str
-    Result: str
-    Referee: str
-    Opponent: str
+    Venue: float
+    Referee: float
+    Opponent: float
     xG: float
     xGA: float
-    Team: str
+    Team: float
 
 app = FastAPI()
 
@@ -37,8 +36,8 @@ def load_model():
 
     global logged_model
     import mlflow
-    mlflow.set_tracking_uri('https://dagshub.com/SantiagoAguirre2002/churn-app-2024-1.mlflow')
-    logged_model = 'runs:/564ea0ecbc7b4a428244b2f27a2f61b0/logistic_classifier'
+    mlflow.set_tracking_uri('https://dagshub.com/IlseFlores/PROYECTO-CD-Premiere-league.mlflow')
+    logged_model = 'runs:/3f84a63daa10480988d638e5ff2d5172/logistic_regression_classifier'
 
     # Load model as a PyFuncModel.
     logged_model = mlflow.pyfunc.load_model(logged_model)
@@ -48,6 +47,7 @@ def classify(features_model: FeaturesModel, api_key : APIKey=Depends(get_api_key
 
     features= [val for val in features_model.__dict__.values()]
     prediction = logged_model.predict([features])
+    print(prediction)
 
 
     label_dict= {
