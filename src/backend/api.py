@@ -9,8 +9,7 @@ from pydantic import BaseModel
 class FeaturesModel(BaseModel):
     Venue: str
     Result: str
-    GF: float
-    GA: float
+    Referee: str
     Opponent: str
     xG: float
     xGA: float
