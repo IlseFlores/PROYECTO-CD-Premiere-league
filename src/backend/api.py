@@ -52,8 +52,9 @@ def classify(features_model: FeaturesModel, api_key : APIKey=Depends(get_api_key
 
 
     label_dict= {
-        0: "Not churn",
-        1: "Churn"
+        0: "Draw",
+        1: "Win",
+        2: "Lose"
     }
 
     return {'prediction': label_dict[int(prediction[0])]}
