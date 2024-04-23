@@ -4,7 +4,7 @@ import requests
 import json
 
 st.markdown("""
-# Gameday Premier League Prediction
+# Gameday Premier League Predictions
 
 Enter customer details to predict result
 """)
