@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 import json
 
+
 st.markdown("""
 # Gameday Premier League Predictions
 
@@ -10,12 +11,12 @@ Enter customer details to predict result
 """)
 
 st.sidebar.header("Gameday Details:")
-Venue = st.sidebar.number_input("Venue (0 or 1)", min_value=0.0, max_value=1.0, value=0.0)
-Opponent = st.sidebar.number_input("Opponent", min_value=0.0, value=19.0)
-xG = st.sidebar.number_input("xG" , min_value=0.0, value=5.0)
-xGA = st.sidebar.number_input("xGA", min_value=0.0, value=5.0)
-Referee = st.sidebar.number_input("Referee", min_value=0.0, value=24.0)
-Team = st.sidebar.number_input("Team", min_value=0.0, value=19.0)
+Venue = st.sidebar.selectbox("Venue (0 or 1)", ("0", "1"))
+Opponent = st.sidebar.selectbox("Opponent", ("0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16", "17", "18","19"))
+xG = st.sidebar.number_input("xG" , min_value=0.0, max_value=7.0, step=0.1)
+xGA = st.sidebar.number_input("xGA", min_value=0.0, max_value=7.0, step=0.1)
+Referee = st.sidebar.selectbox("Referee", ("0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16", "17", "18","19","20","21","22","23","24","25"))
+Team = st.sidebar.selectbox("Team",("0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16", "17", "18","19"))
 # Add other parameters as needed
 
 dict_input = {
@@ -41,6 +42,7 @@ if st.button("predict"):
     }
 
     response = requests.request("GET", url, headers=headers, data=payload)
-    st.write("Prediction: ",response.json())
+    st.write("Prediction: ",response.json()["prediction"])
 
     print(response.text)
+
