@@ -10,12 +10,12 @@ Enter customer details to predict result
 """)
 
 st.sidebar.header("Gameday Details:")
-Venue = st.sidebar.number_input("Venue (0 or 1)", min_value=0.0, max_value=1.0, value=0.0)
-Opponent = st.sidebar.number_input("Opponent", min_value=0.0, value=19.0)
+Venue = st.sidebar.selectbox("Venue", ["Home", "Away"])
+Opponent = st.sidebar.text_input("Opponent")
 xG = st.sidebar.number_input("xG" , min_value=0.0, value=5.0)
 xGA = st.sidebar.number_input("xGA", min_value=0.0, value=5.0)
-Referee = st.sidebar.number_input("Referee", min_value=0.0, value=24.0)
-Team = st.sidebar.number_input("Team", min_value=0.0, value=19.0)
+Referee = st.sidebar.text_input("Referee")
+Team = st.sidebar.text_input("Team")
 # Add other parameters as needed
 
 dict_input = {
@@ -25,7 +25,7 @@ dict_input = {
     "xGA": xGA,
     "Referee": Referee,
     "Team": Team
-    }
+}
 
 df_input = pd.DataFrame(dict_input, index=[0])
 st.subheader("Gameday Predict")
@@ -41,6 +41,6 @@ if st.button("predict"):
     }
 
     response = requests.request("GET", url, headers=headers, data=payload)
-    st.write("Prediction: ",response.json())
+    st.write("Prediction: ",response.json()['prediction'])
 
     print(response.text)
