@@ -14,3 +14,4 @@ COPY ./x_encode.pkl /x_encode.pkl
 
 EXPOSE 5050
 CMD ["uvicorn","api:app", "--host", "0.0.0.0", "--port", "5050"]
+#
