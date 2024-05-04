@@ -1,11 +1,15 @@
-version: "3.8"
+version: "3.9"
 services:
   api-result:
-    build: ./backend
+    build:
+      target: builder
+      context: backend
     ports:
       - "5050:5050"
 
   frontend-game:
-    build: ./frontend
+    build :
+      target: builder
+      context: frontend
     ports:
       - "8501:8501"
