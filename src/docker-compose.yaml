@@ -3,13 +3,13 @@ services:
   api-result:
     build:
       target: builder
-      context: backend
+      context: ./backend
     ports:
       - "5050:5050"
 
   frontend-game:
     build :
       target: builder
-      context: frontend
+      context: ./frontend
     ports:
       - "8501:8501"
