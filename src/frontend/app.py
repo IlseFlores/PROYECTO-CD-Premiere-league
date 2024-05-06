@@ -9,13 +9,66 @@ st.markdown("""
 Enter customer details to predict result
 """)
 
+#lista de quipos
+team_list = [
+    "Liverpool",
+    "Newcastle United",
+    "Burnley",
+    "Everton",
+    "Crystal Palace",
+    "Fulham",
+    "Manchester City",
+    "Sheffield United",
+    "Wolverhampton Wanderers",
+    "Brighton and Hove Albion",
+    "Manchester United",
+    "Arsenal",
+    "West Ham United",
+    "Tottenham Hotspur",
+    "Bournemouth",
+    "Brentford",
+    "Nottingham Forest",
+    "Aston Villa",
+    "Luton Town",
+    "Chelsea"
+]
+referee_list = [
+    "Anthony Taylor",
+    "Michael Oliver",
+    "Paul Tierney",
+    "Andy Madley",
+    "Tim Robinson",
+    "John Brooks",
+    "Simon Hooper",
+    "Robert Jones",
+    "Chris Kavanagh",
+    "Jarred Gillett",
+    "Craig Pawson",
+    "Stuart Attwell",
+    "Samuel Barrott",
+    "David Coote",
+    "Michael Salisbury",
+    "Peter Bankes",
+    "Thomas Bramall",
+    "Darren England",
+    "Joshua Smith",
+    "Tony Harrington",
+    "Darren Bond",
+    "Lewis Smith",
+    "Graham Scott",
+    "Rebecca Welch",
+    "Robert Madley",
+    "Samuel Allison"
+]
+
+
 st.sidebar.header("Gameday Details:")
 Venue = st.sidebar.selectbox("Venue", ["Home", "Away"])
-Opponent = st.sidebar.text_input("Opponent")
+Opponent = st.sidebar.selectbox("Opponent", team_list)
 xG = st.sidebar.number_input("xG" , min_value=0.0, value=5.0)
 xGA = st.sidebar.number_input("xGA", min_value=0.0, value=5.0)
-Referee = st.sidebar.text_input("Referee")
-Team = st.sidebar.text_input("Team")
+Referee = st.sidebar.text_input("Referee", referee_list)
+Team = st.sidebar.selectbox("Team", team_list)
 # Add other parameters as needed
 
 dict_input = {

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/reginaflores/Documents/ProyectoCDRepos/PROYECTO-CD-Premiere-league/notebooks/mlruns/0/a1af712f3a8947ab91c67ad53076e2d7/artifacts
+end_time: 1714969555671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1af712f3a8947ab91c67ad53076e2d7
+run_name: SVM
+run_uuid: a1af712f3a8947ab91c67ad53076e2d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714969555627
+status: 4
+tags: []
+user_id: tatob
