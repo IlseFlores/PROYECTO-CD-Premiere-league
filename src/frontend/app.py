@@ -12,24 +12,24 @@ Enter customer details to predict result
 #lista de quipos
 team_list = [
     "Liverpool",
-    "Newcastle United",
+    "NewcastleUnited",
     "Burnley",
     "Everton",
-    "Crystal Palace",
+    "CrystalPalace",
     "Fulham",
-    "Manchester City",
-    "Sheffield United",
-    "Wolverhampton Wanderers",
-    "Brighton and Hove Albion",
-    "Manchester United",
+    "ManchesterCity",
+    "SheffieldUnited",
+    "WolverhamptonWanderers",
+    "BrightonandHoveAlbion",
+    "ManchesterUnited",
     "Arsenal",
-    "West Ham United",
-    "Tottenham Hotspur",
+    "WestHamUnited",
+    "TottenhamHotspur",
     "Bournemouth",
     "Brentford",
-    "Nottingham Forest",
-    "Aston Villa",
-    "Luton Town",
+    "NottinghamForest",
+    "AstonVilla",
+    "LutonTown",
     "Chelsea"
 ]
 referee_list = [
@@ -67,7 +67,7 @@ Venue = st.sidebar.selectbox("Venue", ["Home", "Away"])
 Opponent = st.sidebar.selectbox("Opponent", team_list)
 xG = st.sidebar.number_input("xG" , min_value=0.0, value=5.0)
 xGA = st.sidebar.number_input("xGA", min_value=0.0, value=5.0)
-Referee = st.sidebar.text_input("Referee", referee_list)
+Referee = st.sidebar.selectbox("Referee", referee_list)
 Team = st.sidebar.selectbox("Team", team_list)
 # Add other parameters as needed
 
