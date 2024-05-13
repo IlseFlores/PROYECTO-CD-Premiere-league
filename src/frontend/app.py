@@ -38,7 +38,7 @@ st.markdown("""
 """)
 
 
-#lista de quipos
+#lista de quipos.
 team_list = [
 
     "Liverpool",
