@@ -8,6 +8,6 @@ Es importante destacar que este tipo de análisis ha sido abordado en numerosas 
 ¡Únete a nosotros en esta emocionante aventura mientras exploramos el fascinante mundo del fútbol inglés y buscamos desentrañar los secretos detrás de los resultados de la Premier League!
 
 ### EVIDENCIA 
-![img.png](img.png)
+<img src="/Users/reginaflores/Documents/ProyectoCDRepos/PROYECTO-CD-Premiere-league/imágenes/img.png" width="200" height="200">
 
-![img_1.png](img_1.png)
+<img src="/Users/reginaflores/Documents/ProyectoCDRepos/PROYECTO-CD-Premiere-league/imágenes/img_1.png" width="200" height="200">
